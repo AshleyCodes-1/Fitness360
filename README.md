@@ -1,6 +1,6 @@
 # Fitness 360˚
 
-➡**View the hosted website here ➔** [Fitness 360˚](https://ashleycodes-1.github.io/Fitness360/)
+**View the hosted website here ➔** [Fitness 360˚](https://ashleycodes-1.github.io/Fitness360/)
 
 
 Welcome to Fitness 360˚! This is a comprehensive fitness website designed and developed using popular Front-End tools.
