@@ -41,12 +41,17 @@ It is a completely responsive webite having smooth transitions.
 
 ## Gallery
 
-![Home 1](https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home1.jpg)
-![Home 2](https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home2.jpg)
-![Home 3](https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home3.jpg)
-![Blog](https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Blog.jpg)
-![Footer](https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Footer.jpg)
-
+<p float="left">
+  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home1.jpg" alt="Home1" width="100" />
+  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home2.jpg" alt="Home2" width="100" /> 
+</p>
+<p float="left">
+  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home3.jpg" alt="Home3" width="100" />
+  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Blog.jpg" alt="Blog" width="100" /> 
+</p>
+<p float="left">
+  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Footer.jpg" alt="Footer" width="100" />
+</p>
 
 
 ## Getting Started
