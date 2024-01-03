@@ -6,7 +6,7 @@
 Welcome to Fitness 360˚! This is a comprehensive fitness website designed and developed using popular Front-End tools.
 The Database operations are handled by [Mongo Atlas](https://www.mongodb.com/atlas)
 
-It is a completely responsive webite having smooth transitions.
+It is a completely responsive website with smooth transitions.
 
 **Star this project if you like it!**
 
@@ -72,13 +72,15 @@ Before you begin, ensure you have the following prerequisites:
 
    ```bash
    git clone https://github.com/AshleyCodes-1/Fitness360.git
+   ```
 
 ## Usage
 
-1. Start the application by writing on terminal:
+1. Start the application by writing on the terminal:
 
    ```bash
    nodemon server.js
+   ```
 
 2. Open your web browser and go to http://localhost:3000 to access the Fitness 360˚ website.
 
@@ -91,10 +93,11 @@ We welcome contributions from the community! If you'd like to contribute to Fitn
 
     ```bash
     git checkout -b feature/your-feature-name
+    ```
 
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository, detailing the changes you've made and why they should be merged.
+5. Submit a pull request to the main repository detailing the changes you've made and why they should be merged.
 
 ## License
 
