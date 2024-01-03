@@ -42,15 +42,15 @@ It is a completely responsive website with smooth transitions.
 ## Gallery
 
 <p float="left">
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home1.jpg" alt="Home1" width="400" />
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home2.jpg" alt="Home2" width="400" /> 
+  <img src="./screenshots/Home1.jpg" alt="Home1" width="400" />
+  <img src="./screenshots/Home2.jpg" alt="Home2" width="400" /> 
 </p>
 <p float="left">
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home3.jpg" alt="Home3" width="400" />
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Blog.jpg" alt="Blog" width="400" /> 
+  <img src="./screenshots/Home3.jpg" alt="Home3" width="400" />
+  <img src="./screenshots/Blog.jpg" alt="Blog" width="400" /> 
 </p>
 <p float="left">
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Footer.jpg" alt="Footer" width="400" />
+  <img src="./screenshots/Footer.jpg" alt="Footer" width="400" />
 </p>
 
 
