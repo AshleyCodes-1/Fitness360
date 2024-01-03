@@ -12,7 +12,7 @@ It is a completely responsive website with smooth transitions.
 
 ## Table of Contents
 
-- [Technologies Used](#technology)
+- [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Gallery](#gallery)
 - [Getting Started](#getting-started)
